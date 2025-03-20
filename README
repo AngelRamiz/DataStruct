@@ -1,0 +1,15 @@
+# Tarea
+
+Esta tarea implementa una lista enlazada en Java con operaciones basicas como insercion, ordenamiento, union, separacion de pares e impares,
+ inversion, eliminacion de duplicados y obtencion del tamaño
+
+## Estructura
+
+- Lista.java: Implementacion de la lista enlazada
+- Nodo.java: Define la estructura de un nodo
+- Principal.java: Punto de entrada para probar las operaciones
+
+## Uso
+
+1. Clona el repositorio
+2. Ejecuta la clase `Principal` para ver las operaciones en accion
